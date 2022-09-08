@@ -1,0 +1,45 @@
+C:\CSharp_4thEdition\Ch09\Ch09_Solutions\Ch09_10\GuessingGameApp\GuessingGameApp\bin\Debug\GuessingGameApp.exe.config
+C:\CSharp_4thEdition\Ch09\Ch09_Solutions\Ch09_10\GuessingGameApp\GuessingGameApp\bin\Debug\GuessingGameApp.exe
+C:\CSharp_4thEdition\Ch09\Ch09_Solutions\Ch09_10\GuessingGameApp\GuessingGameApp\bin\Debug\GuessingGameApp.pdb
+C:\CSharp_4thEdition\Ch09\Ch09_Solutions\Ch09_10\GuessingGameApp\GuessingGameApp\obj\Debug\GuessingGameApp.csprojResolveAssemblyReference.cache
+C:\CSharp_4thEdition\Ch09\Ch09_Solutions\Ch09_10\GuessingGameApp\GuessingGameApp\obj\Debug\GuessingGameApp.GuessingGameAppForm.resources
+C:\CSharp_4thEdition\Ch09\Ch09_Solutions\Ch09_10\GuessingGameApp\GuessingGameApp\obj\Debug\GuessingGameApp.Properties.Resources.resources
+C:\CSharp_4thEdition\Ch09\Ch09_Solutions\Ch09_10\GuessingGameApp\GuessingGameApp\obj\Debug\GuessingGameApp.csproj.GenerateResource.Cache
+C:\CSharp_4thEdition\Ch09\Ch09_Solutions\Ch09_10\GuessingGameApp\GuessingGameApp\obj\Debug\GuessingGameApp.exe
+C:\CSharp_4thEdition\Ch09\Ch09_Solutions\Ch09_10\GuessingGameApp\GuessingGameApp\obj\Debug\GuessingGameApp.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch09\Ch09_Solutions\Ch09_10\GuessingGameApp\GuessingGameApp\bin\Debug\GuessingGameApp.exe.config
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch09\Ch09_Solutions\Ch09_10\GuessingGameApp\GuessingGameApp\obj\Debug\GuessingGameApp.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch09\Ch09_Solutions\Ch09_10\GuessingGameApp\GuessingGameApp\obj\Debug\GuessingGameApp.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch09\Ch09_Solutions\Ch09_10\GuessingGameApp\GuessingGameApp\bin\Debug\GuessingGameApp.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch09\Ch09_Solutions\Ch09_10\GuessingGameApp\GuessingGameApp\bin\Debug\GuessingGameApp.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch09\Ch09_Solutions\Ch09_10\GuessingGameApp\GuessingGameApp\obj\Debug\GuessingGameApp.csprojResolveAssemblyReference.cache
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch09\Ch09_Solutions\Ch09_10\GuessingGameApp\GuessingGameApp\obj\Debug\GuessingGameApp.GuessingGameAppForm.resources
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch09\Ch09_Solutions\Ch09_10\GuessingGameApp\GuessingGameApp\obj\Debug\GuessingGameApp.Properties.Resources.resources
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch09\Ch09_Solutions\Ch09_10\GuessingGameApp\GuessingGameApp\obj\Debug\GuessingGameApp.csproj.GenerateResource.Cache
+C:\Users\Zainab\OneDrive - University of Cape Town\C#\1285856872_492591(1)\Solution Files\Ch09_Solutions\Ch09_10\GuessingGameApp\GuessingGameApp\obj\Debug\GuessingGameApp.csprojAssemblyReference.cache
+C:\Users\Zainab\OneDrive - University of Cape Town\C#\1285856872_492591(1)\Solution Files\Ch09_Solutions\Ch09_10\GuessingGameApp\GuessingGameApp\obj\Debug\GuessingGameApp.GuessingGameAppForm.resources
+C:\Users\Zainab\OneDrive - University of Cape Town\C#\1285856872_492591(1)\Solution Files\Ch09_Solutions\Ch09_10\GuessingGameApp\GuessingGameApp\obj\Debug\GuessingGameApp.Properties.Resources.resources
+C:\Users\Zainab\OneDrive - University of Cape Town\C#\1285856872_492591(1)\Solution Files\Ch09_Solutions\Ch09_10\GuessingGameApp\GuessingGameApp\obj\Debug\GuessingGameApp.csproj.GenerateResource.cache
+C:\Users\Zainab\OneDrive - University of Cape Town\C#\1285856872_492591(1)\Solution Files\Ch09_Solutions\Ch09_10\GuessingGameApp\GuessingGameApp\obj\Debug\GuessingGameApp.csproj.CoreCompileInputs.cache
+C:\Users\Zainab\OneDrive - University of Cape Town\C#\1285856872_492591(1)\Solution Files\Ch09_Solutions\Ch09_10\GuessingGameApp\GuessingGameApp\obj\Debug\GuessingGameApp.exe
+C:\Users\Zainab\OneDrive - University of Cape Town\C#\1285856872_492591(1)\Solution Files\Ch09_Solutions\Ch09_10\GuessingGameApp\GuessingGameApp\obj\Debug\GuessingGameApp.pdb
+C:\Users\Zainab\OneDrive - University of Cape Town\C#\SOLUTION FILES\Solution Files\Ch09_Solutions\Ch09_10\GuessingGameApp\GuessingGameApp\bin\Debug\GuessingGameApp.exe.config
+C:\Users\Zainab\OneDrive - University of Cape Town\C#\SOLUTION FILES\Solution Files\Ch09_Solutions\Ch09_10\GuessingGameApp\GuessingGameApp\bin\Debug\GuessingGameApp.exe
+C:\Users\Zainab\OneDrive - University of Cape Town\C#\SOLUTION FILES\Solution Files\Ch09_Solutions\Ch09_10\GuessingGameApp\GuessingGameApp\bin\Debug\GuessingGameApp.pdb
+C:\Users\Zainab\OneDrive - University of Cape Town\C#\SOLUTION FILES\Solution Files\Ch09_Solutions\Ch09_10\GuessingGameApp\GuessingGameApp\obj\Debug\GuessingGameApp.csprojAssemblyReference.cache
+C:\Users\Zainab\OneDrive - University of Cape Town\C#\SOLUTION FILES\Solution Files\Ch09_Solutions\Ch09_10\GuessingGameApp\GuessingGameApp\obj\Debug\GuessingGameApp.GuessingGameAppForm.resources
+C:\Users\Zainab\OneDrive - University of Cape Town\C#\SOLUTION FILES\Solution Files\Ch09_Solutions\Ch09_10\GuessingGameApp\GuessingGameApp\obj\Debug\GuessingGameApp.Properties.Resources.resources
+C:\Users\Zainab\OneDrive - University of Cape Town\C#\SOLUTION FILES\Solution Files\Ch09_Solutions\Ch09_10\GuessingGameApp\GuessingGameApp\obj\Debug\GuessingGameApp.csproj.GenerateResource.cache
+C:\Users\Zainab\OneDrive - University of Cape Town\C#\SOLUTION FILES\Solution Files\Ch09_Solutions\Ch09_10\GuessingGameApp\GuessingGameApp\obj\Debug\GuessingGameApp.csproj.CoreCompileInputs.cache
+C:\Users\Zainab\OneDrive - University of Cape Town\C#\SOLUTION FILES\Solution Files\Ch09_Solutions\Ch09_10\GuessingGameApp\GuessingGameApp\obj\Debug\GuessingGameApp.exe
+C:\Users\Zainab\OneDrive - University of Cape Town\C#\SOLUTION FILES\Solution Files\Ch09_Solutions\Ch09_10\GuessingGameApp\GuessingGameApp\obj\Debug\GuessingGameApp.pdb
+C:\Users\Zainab\OneDrive - University of Cape Town\01-UCT Teaching Related\INF1003F\2022\Week4-Loop\LoopingExercises\GuessingGameApp\GuessingGameApp\bin\Debug\GuessingGameApp.exe.config
+C:\Users\Zainab\OneDrive - University of Cape Town\01-UCT Teaching Related\INF1003F\2022\Week4-Loop\LoopingExercises\GuessingGameApp\GuessingGameApp\bin\Debug\GuessingGameApp.exe
+C:\Users\Zainab\OneDrive - University of Cape Town\01-UCT Teaching Related\INF1003F\2022\Week4-Loop\LoopingExercises\GuessingGameApp\GuessingGameApp\bin\Debug\GuessingGameApp.pdb
+C:\Users\Zainab\OneDrive - University of Cape Town\01-UCT Teaching Related\INF1003F\2022\Week4-Loop\LoopingExercises\GuessingGameApp\GuessingGameApp\obj\Debug\GuessingGameApp.csprojAssemblyReference.cache
+C:\Users\Zainab\OneDrive - University of Cape Town\01-UCT Teaching Related\INF1003F\2022\Week4-Loop\LoopingExercises\GuessingGameApp\GuessingGameApp\obj\Debug\GuessingGameApp.GuessingGameAppForm.resources
+C:\Users\Zainab\OneDrive - University of Cape Town\01-UCT Teaching Related\INF1003F\2022\Week4-Loop\LoopingExercises\GuessingGameApp\GuessingGameApp\obj\Debug\GuessingGameApp.Properties.Resources.resources
+C:\Users\Zainab\OneDrive - University of Cape Town\01-UCT Teaching Related\INF1003F\2022\Week4-Loop\LoopingExercises\GuessingGameApp\GuessingGameApp\obj\Debug\GuessingGameApp.csproj.GenerateResource.cache
+C:\Users\Zainab\OneDrive - University of Cape Town\01-UCT Teaching Related\INF1003F\2022\Week4-Loop\LoopingExercises\GuessingGameApp\GuessingGameApp\obj\Debug\GuessingGameApp.csproj.CoreCompileInputs.cache
+C:\Users\Zainab\OneDrive - University of Cape Town\01-UCT Teaching Related\INF1003F\2022\Week4-Loop\LoopingExercises\GuessingGameApp\GuessingGameApp\obj\Debug\GuessingGameApp.exe
+C:\Users\Zainab\OneDrive - University of Cape Town\01-UCT Teaching Related\INF1003F\2022\Week4-Loop\LoopingExercises\GuessingGameApp\GuessingGameApp\obj\Debug\GuessingGameApp.pdb
